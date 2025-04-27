@@ -96,6 +96,10 @@ for f,g in data["teachers"].items():
         print(f'-{h}')
 print(f'Principal : {data["admin"]["principal"]}')
 print(f'Offices : {data["admin"]["offices"][0]},{data["admin"]["offices"][1]}')   
+list1=[1,2,3,4,5]
+list2=[4,5,6,7,8]
+for i in list1:
+    print(list1)
 
 
         
