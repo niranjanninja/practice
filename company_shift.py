@@ -42,3 +42,4 @@ for dept,data in company.items():
         print(f"Employee : {name}")
         for day,shift in detail:
             print(f'Day : {day}, Shift : {shift}')
+
