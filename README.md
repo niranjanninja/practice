@@ -239,7 +239,14 @@ Output: 330
 
 [QUESTION(11)](https://github.com/niranjanninja/practice/blob/master/calculator_class.py)
 ```
-Question - 2
 c = Calculator(5, 10)
 print(c())   # 15
 ```
+
+[QUESTION(12)](https://github.com/niranjanninja/practice/blob/master/movie_class.py)
+```
+m = Movie("Inception", 2010)
+print(m)
+Movie: Inception (2010)
+```
+
