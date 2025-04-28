@@ -213,4 +213,4 @@ data = {
    "Bob": {"Math": 75, "Science": 85}
 }
 Task: Calculate total of all scores.
-Output: 330](https://github.com/niranjanninja/practice/blob/master/students_total.py)
+Output: 330
