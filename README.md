@@ -1,12 +1,14 @@
 [QUESTION(1)](https://github.com/niranjanninja/practice/blob/master/class.py)
+```
   p = Person("Alice", 30)
   print(p.greet()) 
   Expected output
 Hi, I am Alice and I am 30 years old
+```
 
 
 [QUESTION(2)](https://github.com/niranjanninja/practice/blob/master/company_shift.py)
-'''
+```
 company = {i
    "Engineering": {
    "Alice": [("Monday", "Morning"), ("Wednesday", "Evening")],
@@ -30,20 +32,27 @@ Department: Marketing
    Day: Friday, Shift: Morning
   Employee: Diana
    Day: Thursday, Shift: Morning
-'''
+```
+
+
 [QUESTION(3)](https://github.com/niranjanninja/practice/blob/master/count.py)
+```
 count 
 a=[1,2,3,4,3,1]
 output={1:2}
+```
+
 
 [QUESTION(4)](https://github.com/niranjanninja/practice/blob/master/dict_85.py)
-'''
+```
 grades = {"Alice": 85, "Bob": 92, "Charlie": 85, "Diana": 90}
 Task: Write code to find all students who got the score 85.
 Output: ["Alice", "Charlie"]
-'''
+```
+
+
 [QUESTION(5)](https://github.com/niranjanninja/practice/blob/master/employee_shift.py)
-'''
+```
 employees = {
    "Alice": [("Monday", "Morning"), ("Wednesday", "Evening")],
    "Bob": [("Tuesday", "Evening"), ("Thursday", "Morning")],
@@ -63,14 +72,15 @@ Employee: Bob
 Employee: Charlie
   Day: Monday, Shift: Evening
   Day: Friday, Shift: Morning
-'''
+```
+
 
 [QUESTION(6)](https://github.com/niranjanninja/practice/blob/master/pattern.py)
 print pattern
 
 
 [QUESION(7)](https://github.com/niranjanninja/practice/blob/master/python4.py)
-'''
+```
 data = {
     "students": [
         {
@@ -129,10 +139,11 @@ Teacher of science:
 
 Principal: Dr. Brown
 Offices: main office, admin block
-'''
+```
+
 
 [QUESTION(8)](https://github.com/niranjanninja/practice/blob/master/school_grade.py)
-'''
+```
 school = {
    "Grade 6": {
    "Alice": {"Math": 88, "Science": 92, "English": 85},
@@ -162,10 +173,11 @@ Grade: Grade 7
    Subject: Math, Score: 95
    Subject: Science, Score: 91
    Subject: English, Score: 89
-'''
+```
+
 
 [QUESTION(9)](https://github.com/niranjanninja/practice/blob/master/students.py)
-'''
+```
 students = [
     {
         "name": "Alice",
@@ -211,21 +223,23 @@ Student: Charlie
   Activities:
     - science fair
     - robotics
-'''
+```
+
 
 [QUESTION(10)](https://github.com/niranjanninja/practice/blob/master/students_total.py)
-'''
+```
 data = {
    "Alice": {"Math": 80, "Science": 90},
    "Bob": {"Math": 75, "Science": 85}
 }
 Task: Calculate total of all scores.
 Output: 330
-'''
+```
+
 
 [QUESTION(11)](https://github.com/niranjanninja/practice/blob/master/calculator_class.py)
-'''
+```
 Question - 2
 c = Calculator(5, 10)
 print(c())   # 15
-'''
+```
