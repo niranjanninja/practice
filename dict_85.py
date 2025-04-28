@@ -7,5 +7,4 @@ for name,mark in grades.items():
     if mark == 85:
         a.append(name)
 print(a)
-
-
+ 
